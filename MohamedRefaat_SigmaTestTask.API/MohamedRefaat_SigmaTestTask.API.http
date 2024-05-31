@@ -1,0 +1,6 @@
+@MohamedRefaat_SigmaTestTask.API_HostAddress = http://localhost:5224
+
+GET {{MohamedRefaat_SigmaTestTask.API_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###
